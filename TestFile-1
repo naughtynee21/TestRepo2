@@ -3,3 +3,5 @@ TestFile-1 in master
 This file is in branch B.
 
 This will be the second commit.
+
+Merge is done. Now let's do rebase and see what happens. First Commit.

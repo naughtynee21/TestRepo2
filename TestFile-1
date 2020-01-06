@@ -1,17 +1,1 @@
 TestFile-1 in master
-
-This file is in branch B.
-
-This will be the second commit.
-
-Merge is done. Now let's do rebase and see what happens. First Commit. this is useless
-
-this will be the new first commit.
-
-Commit 2 now
-
-3rd commit now
-
-let's see what happens if i create a new commit after i have merged this to the master. new Commit 1
-
-let's see what happens if i create a new commit after i have merged this to the master. new Commit 2
